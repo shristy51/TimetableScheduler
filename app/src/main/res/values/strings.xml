@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TimetableScheduler</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="set_password">SET PASSWORD</string>
+    <string name="id_enrollmentno">id/enrollmentno.</string>
+    <string name="phone">PHONE</string>
+    <string name="name">NAME</string>
+    <string name="email_id">EMAIL ID</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="usertype">Select User Type</string>
+
+    <string-array name="utype">
+        <item>Admin</item>
+        <item>Student</item>
+    </string-array>
+    <string name="prio">Select Priority</string>
+
+    <string-array name="priority">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
